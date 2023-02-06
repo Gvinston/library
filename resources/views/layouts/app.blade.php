@@ -16,10 +16,6 @@
     @yield('content')
 </div>
 
-@yield('scripts')
-<script defer>
-    $('#mySelect').multiselect();
-</script>
 </body>
 </html>
 
